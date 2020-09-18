@@ -1,5 +1,6 @@
 
-var script_url = "https://script.google.com/macros/s/AKfycbyWp-vp3O5umUaoyWmFZCydByiHS4iQI3I2--CIFrA0qCRoVyyD/exec"
+var script_url = "https://script.google.com/macros/s/AKfycbyOMhTEvE5IuNGekue4HkSJcTlXZSQ2NBzmlmBxs6Y5lCNNXicR/exec"
+
 
 $("#submitIOT").click(function(event) {
 	 
